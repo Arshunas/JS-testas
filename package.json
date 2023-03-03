@@ -1,16 +1,27 @@
 {
   "name": "js-testas",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "JS": "nodemon ./js/JS.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Sarunas St",
+  "license": "MIT",
   "devDependencies": {
     "dead-server": "^1.0.9"
-  }
+  },
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arshunas/JS-testas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Arshunas/JS-testas/issues"
+  },
+  "homepage": "https://github.com/Arshunas/JS-testas#readme",
+  "description": ""
 }
